@@ -1,6 +1,5 @@
 import React, {useState, useEffect} from "react";
 import Xarrow from "react-xarrows";
-import logo from './logo.svg';
 import './App.css';
 const bl = {
   border: "#00DAD5 solid", borderWidth: "3px 0 3px 0px", padding: "5px", listStyleType: "none", marginTop: "30px"
